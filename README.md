@@ -1,4 +1,4 @@
-# Problema Abbreviations
+# Problema: Abbreviations
 URI Online Judge | 1519 By Cristhian Bonilha, UTFPR BR Brazil
 https://www.urionlinejudge.com.br/judge/en/problems/view/1519
 
